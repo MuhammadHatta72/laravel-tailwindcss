@@ -1,5 +1,5 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="laravel.png" width="400" alt="Laravel Logo">
-<img src="tailwindcss.png" width="400" alt="Tailwindcss Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="public/laravel.png" width="400" alt="Laravel Logo">
+<img src="public/tailwindcss.png" width="400" alt="Tailwindcss Logo"></a></p>
 
 ## Template Laravel Tailwindcss
 
